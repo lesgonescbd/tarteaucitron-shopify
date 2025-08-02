@@ -1,11 +1,12 @@
+/*
+  Access-Control-Allow-Origin: *
+  X-Content-Type-Options: nosniff
+
 /tarteaucitron.min.js
   Content-Type: application/javascript
-  Access-Control-Allow-Origin: *
 
 /tarteaucitron.services.min.js
   Content-Type: application/javascript
-  Access-Control-Allow-Origin: *
 
 /tarteaucitron.css
   Content-Type: text/css
-  Access-Control-Allow-Origin: *
