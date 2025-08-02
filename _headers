@@ -2,7 +2,7 @@
   Access-Control-Allow-Origin: *
   X-Content-Type-Options: nosniff
 
-/tarteaucitron.min.css
+/css/tarteaucitron.min.css
   Content-Type: text/css; charset=utf-8
 
 /tarteaucitron.min.js
