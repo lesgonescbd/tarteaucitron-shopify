@@ -1,0 +1,8 @@
+/tarteaucitron.min.js
+  Access-Control-Allow-Origin: *
+
+/tarteaucitron.services.min.js
+  Access-Control-Allow-Origin: *
+
+/tarteaucitron.css
+  Access-Control-Allow-Origin: *
