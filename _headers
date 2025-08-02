@@ -1,8 +1,4 @@
-/tarteaucitron.min.js
+/*
   Access-Control-Allow-Origin: *
-
-/tarteaucitron.services.min.js
-  Access-Control-Allow-Origin: *
-
-/tarteaucitron.css
-  Access-Control-Allow-Origin: *
+  X-Content-Type-Options: nosniff
+  Content-Type: text/plain; charset=utf-8
